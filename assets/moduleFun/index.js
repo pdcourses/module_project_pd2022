@@ -1,5 +1,7 @@
 'use strict';
 
+export default "Hello, World!!!";
+
 function multOne(value){
     return value*1;
 }
